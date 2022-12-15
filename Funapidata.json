@@ -1960,7 +1960,7 @@
        "freedubbedmovies" : "no",
        "imdbtop" : "no",
        "spark" : "no",
-       "trallertreser" : "no",
+       "trallertreser" : "yes",
        "zeetvshow" : "no",
        "zeepunjabishow" : "no",
        "popularfreetvshow" : "no",
