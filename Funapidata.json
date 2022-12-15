@@ -671,7 +671,7 @@
        "bolockbustermovie" : "no",
        "popularmovie" : "yes",
        "freedubbedmovies" : "no",
-       "imdbtop" : "no",
+       "imdbtop" : "yes",
        "spark" : "no",
        "trallertreser" : "no",
        "zeetvshow" : "no",
