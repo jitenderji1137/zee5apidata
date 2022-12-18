@@ -359,7 +359,7 @@
        "nailbitthril" : "no",
        "mostwatchwebseries" : "no",
        "actionpacked" : "no",
-       "crimefictionlovers" : "no",
+       "crimefictionlovers" : "yes",
        "populartvstar" : "no"
       },
        {
@@ -4286,7 +4286,7 @@
        "nailbitthril" : "no",
        "mostwatchwebseries" : "no",
        "actionpacked" : "no",
-       "crimefictionlovers" : "no",
+       "crimefictionlovers" : "yes",
        "populartvstar" : "no"
       },
        {
@@ -6200,7 +6200,7 @@
        "nailbitthril" : "yes",
        "mostwatchwebseries" : "yes",
        "actionpacked" : "no",
-       "crimefictionlovers" : "no",
+       "crimefictionlovers" : "yes",
        "populartvstar" : "yes"
       },
        {
