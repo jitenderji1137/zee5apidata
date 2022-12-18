@@ -317,7 +317,7 @@
        "andtvshow" : "yes",
        "romanticshow" : "no",
        "watchagainontvzeetv" : "no",
-       "horershow" :"no",
+       "horershow" :"yes",
        "superstartvshow" : "no",
        "onlyonzee" : "no",
        "latestupcoming" : "no",
