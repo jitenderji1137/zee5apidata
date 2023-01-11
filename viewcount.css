@@ -1,4 +1,4 @@
-      *{
+           *{
         margin: 0;
         padding: 0;
         font-family: sans-serif;
@@ -39,8 +39,9 @@
         margin-top: -60px;
       }
       .adcode{
+        width: fit-content;
         overflow: hidden;
-        margin: 20px 0px;
+        margin: 20px auto;
         border-radius: 50px;
       }
       #p1{
@@ -67,20 +68,6 @@
       }
       .swal-button:hover{
         background-color: rgb(255, 157, 157)!important;
-      }
-      a{
-        display: flex;
-        justify-content: center;
-        margin-bottom: 20px;
-        font-size: 30px;
-        text-decoration: none;
-        color: red;
-        font-weight: bolder;
-      }
-      span{
-        color: rgb(26, 8, 43);
-        font-size: 20px;
-        margin-left: 5px;
       }
       @media screen and (min-width:0px) and (max-width:800px){
         nav{
