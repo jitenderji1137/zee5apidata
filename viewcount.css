@@ -39,10 +39,12 @@
         margin-top: -60px;
       }
       .adcode{
-        width: fit-content;
-        overflow: hidden;
-        margin: 20px auto;
-        border-radius: 50px;
+      width: 100vw;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      margin: 20px auto;
+      border-radius: 50px;
       }
       #p1{
         margin: 20px;
