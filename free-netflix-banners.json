@@ -1,6 +1,7 @@
 [
  {
  "MovieName":"TAJ: Divided by Blood",
+ "MainCategory": "WebSeries",
  "Duration":"6h 42",
  "Year":"2023",
  "Content":"+6",
@@ -12,6 +13,7 @@
  },
   {
  "MovieName":"Antim: The Final Truth",
+ "MainCategory": "Movies",  
  "Duration":"2h 18",
  "Year":"2021",
  "Content":"+10",
@@ -23,6 +25,7 @@
  },
   {
  "MovieName":"Jehanabad - Of Love & War",
+ "MainCategory": "WebSeries",  
  "Duration":"6h 15",
  "Year":"2023",
  "Content":"+10",
@@ -34,6 +37,7 @@
  },
   {
  "MovieName":"Choti Bahu S1E1",
+ "MainCategory": "Adult",  
  "Duration":"0h 19",
  "Year":"2023",
  "Content":"+18",
