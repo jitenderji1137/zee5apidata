@@ -21,7 +21,7 @@
       "welcomeText":"Hi there! Welcome to Free Netflix\nHow can I help you?",
       "messageText":"Type your Query here . . .",
       "backgroundColor":"#000000",
-      "ctaText":"Send",
+      "ctaText":"Chat Now",
       "borderRadius":"10",
       "autoShow":false,
       "phoneNumber":"918307056141"
