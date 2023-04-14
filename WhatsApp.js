@@ -1,5 +1,4 @@
-<script>
-    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?47835';
+   var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?47835';
     var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
@@ -33,4 +32,3 @@
     };
     var x = document.getElementsByTagName('script')[0];
     x.parentNode.insertBefore(s, x);
-</script>
