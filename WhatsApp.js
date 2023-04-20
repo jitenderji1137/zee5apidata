@@ -19,7 +19,7 @@
       "brandSubTitle":"Typically replies within a 12hr",
       "brandImg":"https://i.postimg.cc/wxNWxtMY/rounded-corners-removebg-preview.png",
       "welcomeText":"Hi there! Welcome to Free Netflix\nHow can I help you?",
-      "messageText":"Type your Query here . . .",
+      "messageText":"Hi , I am Free Netflix User and I . . .",
       "backgroundColor":"#000000",
       "ctaText":"Chat Now",
       "borderRadius":"10",
