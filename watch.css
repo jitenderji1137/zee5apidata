@@ -1,0 +1,66 @@
+body {
+        background-color: black;
+        }
+        .clock {
+        width: 90vh;
+        height: 90vh;
+        border: 1px solid #333;
+        border-radius: 50%;
+        position: relative;
+        margin: 50px auto;
+        background-image: url(https://idgrafica.com/wp-content/uploads/2023/02/quadrante-scuro.png);
+        background-size: cover;
+        background-position: center;
+        box-shadow: 0px 4px 5px 2px rgb(0 0 0 / 50%);
+        }
+
+        .hand {
+        width: 45%;
+        margin-left: 5%;
+        height: 6px;
+        background-color: #333;
+        position: absolute;
+        top: 50%;
+        transform-origin: 100%;
+        transform: rotate(90deg);
+        filter: drop-shadow(5px 0px 5px black);
+        }
+        .hour-hand {
+        z-index: 3;
+        height: 10%;
+        background-image: url(https://idgrafica.com/wp-content/uploads/2023/02/ore9.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        background-position-y: -0px;
+        background-position-x: 100%;
+        top: 45%;
+        }
+        .minute-hand {
+        z-index: 2;
+        height: 17%;
+        background-image: url(https://idgrafica.com/wp-content/uploads/2023/02/ore9.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        background-position-y: 50%;
+        background-position-x: 0px;
+        top: 40.5%;
+        left: 0%;
+        }
+        .second-hand {
+        z-index: 4;
+        background-color: red;
+        height: 2px;
+        }
+        .center-dot {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        height: 3%;
+        width: 3%;
+        background-color: red;
+        border-radius: 50%;
+        z-index: 10;
+        }
